@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "A Part 4 computer science student studying at Obafemi Awolowo University, Nigeria ";
+  "A Part 4 computer science student studying at Obafemi Awolowo University, Nigeria. i am glad ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
