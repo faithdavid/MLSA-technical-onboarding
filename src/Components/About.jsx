@@ -37,6 +37,7 @@ const skillsList = [
   "Power Bi",
   "Excel and data transformation",
   "Graphic design",
+  "User interface design"
 ];
 
 /**
